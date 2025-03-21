@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "trialszxc/1.0.0": {
+        "dependencies": {
+          "Krypton.Toolkit": "90.25.2.55"
+        },
+        "runtime": {
+          "trialszxc.dll": {}
+        }
+      },
+      "Krypton.Toolkit/90.25.2.55": {
+        "runtime": {
+          "lib/net9.0-windows7.0/Krypton.Toolkit.dll": {
+            "assemblyVersion": "90.25.2.55",
+            "fileVersion": "90.25.2.55"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "trialszxc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Krypton.Toolkit/90.25.2.55": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FaAMlKtIoCwZqQHjsyd6PzF/KdSYdLrv8IwvepyHenES59MVUGcwBJDWRM949KWhq8mky3icT5Xkq7qwnyQFCA==",
+      "path": "krypton.toolkit/90.25.2.55",
+      "hashPath": "krypton.toolkit.90.25.2.55.nupkg.sha512"
+    }
+  }
+}
